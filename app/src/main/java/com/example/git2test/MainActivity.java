@@ -13,5 +13,9 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Bye nig!");
         System.out.println("Bye nig!");
         System.out.println("Bye nig!");
+        System.out.println("Bye nig!");
+        System.out.println("Bye nig!");
+        System.out.println("Bye nig!");
+        System.out.println("Bye nig!");
     }
 }
